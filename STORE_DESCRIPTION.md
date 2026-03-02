@@ -49,6 +49,6 @@ Claude's limits aren't officially published and do change. The 45-message figure
 
 ISSUES / SOURCE
 
-https://github.com/clawgenesis/claude-usage-tracker
+https://github.com/GenesisClawbot/claude-usage-tracker
 
 Built by Jamie Cole — indie developer, UK.
